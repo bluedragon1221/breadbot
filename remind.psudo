@@ -1,0 +1,7 @@
+day?
+    tue-sat
+        remind 1 time
+    mon:
+        choose new person
+        write name to current.txt
+    
